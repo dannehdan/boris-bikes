@@ -12,10 +12,8 @@ Here, we are outlining the Objects and Messages based on the two user stories be
 
 | Objects | Messages |
 |---------|----------|
-| User (person) | use_bike |
+| Person | use_bike |
 | Bike | is_working |
 | Docking Station | release_bike |
 
-## User stories diagram
-
-![Diagram](https://lucid.app/documents/embeddedchart/69b03407-6d3b-43b6-99ff-f425202cccc9)
+[User Stories Diagram (Domain Model)](https://lucid.app/documents/embeddedchart/69b03407-6d3b-43b6-99ff-f425202cccc9)
