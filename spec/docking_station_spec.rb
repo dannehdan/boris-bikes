@@ -1,7 +1,5 @@
-describe 'A docking station' do
-  it 'recognises docking station' do
-    # Arrange
-    # Act
-    # Assert
-  end 
+require './lib/docking_station.rb'
+
+describe DockingStation do
+  it { is_expected.to respond_to :release_bike }
 end
