@@ -18,4 +18,4 @@ Here, we are outlining the Objects and Messages based on the two user stories be
 
 ## User stories diagram
 
-[Diagram](https://lucid.app/documents/embeddedchart/69b03407-6d3b-43b6-99ff-f425202cccc9)
+![Diagram](https://lucid.app/documents/embeddedchart/69b03407-6d3b-43b6-99ff-f425202cccc9)
