@@ -2,6 +2,8 @@ require './lib/bike.rb'
 
 class DockingStation
 
+  attr_reader :bike
+
   def release_bike
     Bike.new
   end
@@ -9,10 +11,4 @@ class DockingStation
   def dock(bike)
     @bike = bike
   end
-
-  # def list_docked_bikes
-  def bike
-    @bike
-  end
-
 end
