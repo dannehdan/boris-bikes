@@ -24,7 +24,7 @@ A Domain Model is an abstract representation of the Objects within a system, and
 
 ## Errors
 
-Erros are good. They tell us what the problem is and point us towards where we can go to fix it
+Errors are good. They tell us what the problem is and point us towards where we can go to fix it
 
 > Traceback (most recent call last):
 >       4: from /Users/danmarshall/.rvm/rubies/ruby-3.0.0/bin/irb:23:in `<main>'
