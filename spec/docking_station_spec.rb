@@ -18,7 +18,11 @@ describe DockingStation do
   it 'returns list of docked bikes' do
     bike = Bike.new
     subject.dock(bike)
-    # expect(subject.list_docked_bikes).to eq bike
+
     expect(subject.bike).to eq bike
+  end
+
+  it 'raises an error if there are no bikes' do
+    expect { subject.release_bike }. to raise_error "No bikes"
   end
 end
